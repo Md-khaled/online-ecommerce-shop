@@ -1,0 +1,57 @@
+.wrap {
+  background: #f6debc none repeat scroll 0 0;
+  margin: 0 auto;
+  padding: 0 1%;
+  width: 78%;
+}
+.search_box input[type="text"] {
+  background: rgb(198, 159, 108) ;
+  
+}
+.search_box input[type="text"]:hover {
+  background: #436f70 ;
+  
+}
+.shopping_cart {
+  background: rgb(198, 159, 108) ;
+  box-sizing: border-box;
+  cursor: pointer;
+  float: left;
+  margin-left: 15px;
+  padding: 0 0 0 46px;
+  position: relative;
+  width: 202px;
+  z-index: 99;
+}
+.cart {
+  
+  background: #c69f6c none repeat scroll 0 0;
+  border-color: #cecece #cecece #cecece -moz-use-text-color;
+  
+}
+.login {
+  background: rgb(198, 159, 108);
+ 
+}
+ul.dc_mm-orange {
+  background: rgb(198, 159, 108) ;
+  font: 13px Arial,sans-serif;
+  padding: 0;
+  position: relative;
+  width: 100%;
+}
+ul.dc_mm-orange 
+li.mega-hover a,
+ul.dc_mm-orange li a:hover{
+  background: rgb(67, 111, 112);
+  
+}
+.images_1_of_4 .button a:hover{
+    background:#436f70;
+    color:#70389c;
+}
+.footer {
+  background: rgb(67, 111, 112);
+  box-shadow: 0 1px 8px #222 inset;
+  position: relative;
+}
